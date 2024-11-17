@@ -1,6 +1,6 @@
 {
-  "name": "project-messagesite",
-  "version": "0.1.2",
+  "name": "strange-talk",
+  "version": "0.0.1",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -30,7 +30,7 @@
     "embla-carousel-react": "^8.0.0-rc17",
     "lucide-react": "^0.303.0",
     "mongoose": "^8.0.3",
-    "next": "14.0.4",
+    "next": "^14.2.18",
     "next-auth": "^4.24.5",
     "openai": "^4.47.3",
     "react": "^18",
